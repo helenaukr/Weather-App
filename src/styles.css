@@ -10,12 +10,9 @@ h1 {
   margin: 0;
 }
 
-#os {
-  color: #7c7c7c;
-  font-size: 25px;
-  font-weight: 100;
-  line-height: 25px;
-  margin: 0;
+.small, small {
+    font-size: 80%;
+    font-weight: 400;
 }
 
 ul {
